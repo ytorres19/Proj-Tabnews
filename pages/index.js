@@ -1,5 +1,5 @@
 function Home() {
-    var titulo = <h1>Mudei para testar o erro do git</h1>;
+    var titulo = <h1>Aprendendo sobre o vercel.</h1>;
     return titulo
 }
 
